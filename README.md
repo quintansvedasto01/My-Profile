@@ -1,4 +1,4 @@
-# Hello, I'm [Vedasto Quintans] 👋
+# Hello, I'm Vedasto Quintans 👋
 
 Welcome to my GitHub profile! I'm a web developer passionate about building websites and applications, with a focus on front-end development. I also dabble in some backend technologies.
 
