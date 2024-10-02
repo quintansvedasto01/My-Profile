@@ -26,6 +26,6 @@ Welcome to my GitHub profile! I'm a web developer passionate about building webs
 
 - 📫 You can reach me at [quintansvedasto01@gmail.com](mailto:quintansvedasto01@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vedasto-quintans-8a1111198)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 🌐 [Portfolio](https://quintansvedasto01.github.io/my-portfolio/)
 
 ---
